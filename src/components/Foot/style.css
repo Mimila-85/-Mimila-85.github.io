@@ -1,0 +1,10 @@
+/* Properties for the sticky foot */
+.nav-foot {
+    text-align: center;
+    padding: 5px 0;
+    margin-bottom: -16px;
+    background-color:#4664866b;
+    bottom: 0px;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+}
