@@ -24,7 +24,7 @@ I am going to be constantly updating this portfolio with my new completed projec
 
 ## Demo
 
-![Portfolio](https://github.com/Mimila-85/mimila-85.github.io/blob/master/public/assets/images/portfolioDemo.mp4)
+![Portfolio](https://github.com/Mimila-85/mimila-85.github.io/blob/master/public/assets/images/portfolioDemo.gif)
 
 ## Questions
 
