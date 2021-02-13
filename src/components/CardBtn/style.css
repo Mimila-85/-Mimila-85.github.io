@@ -1,0 +1,16 @@
+/* Set font color and background color to the cards buttons */
+.btnPortfolio {
+  background-color: #46648685;
+  color: whitesmoke;
+  font-family: "Russo One", sans-serif;
+  text-decoration: none;
+  width: fit-content;
+  margin: 0px 5px 10px 5px;
+  padding: 5px;
+  border-radius: 8px;
+  box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+/* Change button color when mouse hover the button */
+.btnPortfolio:hover {
+  background-color: #797b7c85;
+}
