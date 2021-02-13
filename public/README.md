@@ -22,7 +22,7 @@ I am going to be constantly updating this portfolio with my new completed projec
 
 ## Demo
 
-![Portfolio](https://github.com/Mimila-85/mimila-85.github.io/blob/master/public/assets/images/portfolioDemo.gif)
+![Portfolio](/assets/images/portfolioDemo.gif)
 
 ## Questions
 
