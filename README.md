@@ -10,8 +10,6 @@ I am going to be constantly updating this portfolio with my new completed projec
 
 ## Table of Contents
 
-- [Usage](#usage)
-
 - [Link](#link)
 
 - [Demo](#Demo)
