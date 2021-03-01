@@ -3,7 +3,7 @@
         "image": "/assets/images/employeeDirectory.gif",
         "title": "Employee Directory",
         "technologies": "React, Bootstrap",
-        "description": "This Employee Directory presents a list of employees with their profile picture, name, phone number, email, and birthday. The columns can be sorted ascending or descending. The employee list can be narrowed using the search bar to search by first name or last name.",
+        "description": "A list of employees with a profile picture, name, phone number, email, and birthday. It is sortable ascending or descending and searchable by first or last name.",
         "responsibility": "I have created this application from scratch using React. The list of employees for this example was created through an API call to the Random User Generator website through Axios.",
         "livePage": "https://mimila-85.github.io/employee-directory/",
         "gitHub": "https://github.com/Mimila-85/employee-directory"
@@ -11,8 +11,8 @@
     {
         "image": "/assets/images/crushIt.gif",
         "title": "Crush it!",
-        "technologies": "Express.js, MongoDB, Mongoose, ESLint, Handlebars, CSS, jQuery, Bootstrap",
-        "description": "Crush It! is a personal workout tracking application that allows the user to set up an account, create a workout routine by selecting from a range of exercises, update a routine, and track its progress compared to previous sessions.",
+        "technologies": "Node.js, Express.js, MySQL, Sequelize, ESLint, Handlebars, CSS, jQuery, Bootstrap",
+        "description": "Personal workout tracking application that allows the user to create a workout routine, update, and track its progress compared to previous sessions.",
         "responsibility": "This was a group project, where my main responsibility was setting up the back-end models, controllers, seeds, and server; however, I also helped with the views and front-end JavaScript.",
         "livePage": "https://youcrushit.herokuapp.com/",
         "gitHub": "https://github.com/Mimila-85/you-crush-it"
