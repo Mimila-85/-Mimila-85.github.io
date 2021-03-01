@@ -1,7 +1,7 @@
 /* Limit the card text height */
 .card-text {
   font-family: "Roboto", sans-serif;
-  height: 240px;
+  height: 265px;
   overflow-y: auto;
   padding-right: 5px;
   text-align: justify;
