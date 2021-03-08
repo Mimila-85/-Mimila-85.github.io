@@ -1,5 +1,14 @@
 [
     {
+        "image": "/assets/images/roboArmDemo.gif",
+        "title": "RoboArm App Control",
+        "technologies": "Node.js, Express.js, MongoDB, Mongoose, Passport, Socket.io, Adafruit-pca9685, React, CSS, and Material UI",
+        "description": "RoboArm is a web app that allows the user to remote control a robot claw from anywhere with internet connectivity.",
+        "responsibility": "Backend (Node.js, Express.js, MongoDB, Mongoose, Passport, Socket.io, Adafruit-pca9685), and front end (React, CSS, and Material UI).",
+        "livePage": "https://mimila-85.github.io/employee-directory/",
+        "gitHub": "https://github.com/Mimila-85/employee-directory"
+    },
+    {
         "image": "/assets/images/employeeDirectory.gif",
         "title": "Employee Directory",
         "technologies": "React, Bootstrap",
